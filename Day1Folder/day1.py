@@ -54,6 +54,38 @@ greetings("GER")
 # Task 7:
 
 
+def addition(num1,num2):
+    print(num1,"+",num2,"=",num1+num2)
+
+
+addition(10,3)
+
+
+def multiply(x,y):
+    print(x,"*",y,"=",x*y)
+
+
+multiply(2,6)
+
+
+
+def division(w,a):
+    print(w,"divided by",a,"=",w/a,'remainder',w%a)
+
+division(8,2)
+
+
+
+def subtraction(h,d):
+     print(h,"-",d,"=",h-d)
+
+subtraction(3,2)
+
+
+
+
+
+
 
 ########################################################################
 # Additional exercises:
