@@ -5,7 +5,7 @@ print("hello from day4")
 ########################################################################
 # Task 1:
 import random
-print(random.randit(-1,100))
+print(random.randint(-1,100))
 
 
 
