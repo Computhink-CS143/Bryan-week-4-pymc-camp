@@ -13,7 +13,8 @@
 
 #######################################################################
 # Task 2:
-q='what is heavier,'
+q='what is heavier,cotton or steel?'
+
 
 
 
