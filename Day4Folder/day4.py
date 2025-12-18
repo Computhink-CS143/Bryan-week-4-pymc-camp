@@ -4,10 +4,10 @@ print("hello from day4")
 
 ########################################################################
 # Task 1:
-import random
+# import random
 
-for count in range(10):
-    print(random.randint(1,100))
+# for count in range(10):
+#     print(random.randint(1,100))
 
 
 
