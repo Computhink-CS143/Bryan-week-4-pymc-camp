@@ -3,7 +3,7 @@
 print("hello from day4")
 
 ########################################################################
-# Task 1:qqqq
+# Task 1:
 import random
 
 for count in range(10):
