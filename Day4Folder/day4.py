@@ -21,6 +21,8 @@ while reply!=ans:
     reply=input(q)
     if reply==ans:
         print("you got it")
+    else:
+        print()
 
 
 
