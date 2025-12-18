@@ -17,6 +17,8 @@ q='what is heavier,cotton or steel?'
 ans='no answer'
 reply=''
 
+while reply!=q:
+    reply=input()
 
 
 
