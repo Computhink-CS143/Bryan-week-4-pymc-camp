@@ -15,6 +15,7 @@
 # Task 2:
 q='what is heavier,cotton or steel?'
 ans='no answer'
+reply=''
 
 
 
