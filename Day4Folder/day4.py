@@ -27,6 +27,4 @@
 
 
 ########################################################################
-# Additional exercises:
-import random
-score=0
+# Additional exercises: 
