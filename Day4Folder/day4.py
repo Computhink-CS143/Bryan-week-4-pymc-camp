@@ -28,13 +28,4 @@
 
 ########################################################################
 # Additional exercises:
-q='what is heavier,cotton or steel?'
-ans='la'
-reply=''
-
-while reply!=ans:
-    reply=input(q)
-    if reply==ans:
-        print("you got it")
-    else:
-        print('wrong')
+import random
