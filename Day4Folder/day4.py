@@ -13,6 +13,21 @@
 
 #######################################################################
 # Task 2:
+# q='what is heavier,cotton or steel?'
+# ans='la'
+# reply=''
+
+# while reply!=ans:
+#     reply=input(q)
+#     if reply==ans:
+#         print("you got it")
+#     else:
+#         print('wrong')
+
+
+
+########################################################################
+# Additional exercises:
 q='what is heavier,cotton or steel?'
 ans='la'
 reply=''
@@ -23,8 +38,3 @@ while reply!=ans:
         print("you got it")
     else:
         print('wrong')
-
-
-
-########################################################################
-# Additional exercises:
