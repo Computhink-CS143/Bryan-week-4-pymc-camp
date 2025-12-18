@@ -51,7 +51,7 @@ q='what is heavier,cotton or steel?'
 
 
 
-ans='no answer'
+ans='la'
 reply=''
 
 while reply!=ans:
