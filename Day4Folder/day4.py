@@ -18,7 +18,7 @@ ans='no answer'
 reply=''
 
 while reply!=q:
-    reply=input()
+    reply=input(q)
 
 
 
