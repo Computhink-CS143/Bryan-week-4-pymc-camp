@@ -22,7 +22,7 @@ while reply!=ans:
     if reply==ans:
         print("you got it")
     else:
-        print()
+        print('wrong')
 
 
 
